@@ -14,27 +14,27 @@ a:hover {
     color: red;
 }
 
-#resume-header {
+.resume-header {
     font-size: 20px;
     text-align: center;
 }
 
-#body-title {
+.body-title {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: bold;
 }
 
-#resume-body {
+.resume-body {
     font-size: 14px;
     margin-left: 40px;
     margin-bottom: 20px;
 }
 
-#resume-detail {
+.resume-detail {
     margin-left: 60px;
 }
 
-#resume-subheader {
+.resume-subheader {
     font-weight: bold;
 }
