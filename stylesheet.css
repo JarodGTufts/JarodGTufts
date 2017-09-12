@@ -34,3 +34,7 @@ a:hover {
 #resume-detail {
     margin-left: 60px;
 }
+
+#resume-subheader {
+    font-weight: bold;
+}
